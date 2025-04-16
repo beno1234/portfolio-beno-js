@@ -2,7 +2,6 @@
 
 import dynamic from "next/dynamic";
 
-// Importação dinâmica com SSR desativado
 const Lottie = dynamic(() => import("lottie-react"), { ssr: false });
 
 const AnimationLottie = ({ animationPath, width }) => {
