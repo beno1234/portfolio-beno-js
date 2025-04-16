@@ -1,20 +1,26 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Graduação - Análise e Desenvolvimento de sistemas",
+    duration: "2021 - 2023",
+    institution: "Universidade São Judas Tadeu - Mooca",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Ensino médio completo",
+    duration: "2020",
+    institution: "Colégio Objetivo/Colégio Amorim",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "Linguagem Estrangeira - Inglês",
+    duration: "Outubro 2023 - Abril - 2024",
+    institution: "Seafield School of English - Nova Zelândia",
+  },
+  {
+    id: 4,
+    title: "Linguagem Estrangeira - Inglês",
+    duration: "Abril 2024 - Outubro - 2024",
+    institution: "Zealive Institute of New Zealand",
+  },
+];

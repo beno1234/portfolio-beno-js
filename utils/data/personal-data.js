@@ -1,17 +1,19 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
+  name: "Beno Dias",
+  profile: "/beno.png",
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+  description:
+    "Me chamo Beno Lopes Dias, sou desenvolvedor de software full-stack com perfil autodidata e apaixonado por tecnologia. Tenho experiência com JavaScript, TypeScript, React, Node.js e MySQL, além de já ter trabalhado com APIs, automações e interfaces modernas com Tailwind. Gosto de resolver problemas de forma prática e estou sempre buscando aprender e evoluir. Embora tenha forte atuação no desenvolvimento web, estou aberto a oportunidades em outras áreas da tecnologia que estejam alinhadas com meu perfil e interesses.",
+  email: "benolopesdias@gmail.com",
+  phone: "+5511910968937",
+  address: "São Paulo - Brazil",
+  github: "https://github.com/beno1234",
+  facebook: "https://www.facebook.com/beno.l.dias/",
+  linkedIn: "https://www.linkedin.com/in/beno-dias-5b5a45211/",
+  twitter: "https://twitter.com/said7388",
+  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  resume:
+    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+};
