@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Beno Lopes Dias - Portfolio",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Este é o portfólio de Beno Lopes Dias. Sou um desenvolvedor full-stack e autodidata. Adoro aprender coisas novas e estou sempre aberto a colaborar com outras pessoas. Aprendo rápido e estou sempre em busca de novos desafios.",
 };
 
 export default function RootLayout({ children }) {
