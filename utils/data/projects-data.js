@@ -57,4 +57,14 @@ export const projectsData = [
     demo: "",
     role: "Back end Developer",
   },
+  {
+    id: 5,
+    name: "Sistema de vacinação para Covid - 19",
+    description:
+      "Atuei como desenvolvedor backend no desenvolvimento de um sistema para controle e gerenciamento da vacinação contra a Covid-19. Fui responsável pela implementação da lógica de negócio, integração com bancos de dados MySQL e Oracle, além da criação de endpoints para cadastro, agendamento e registro de doses aplicadas. O sistema foi projetado para garantir consistência e segurança no armazenamento das informações.",
+    tools: ["Java", "MySQL", "Oracle"],
+    code: "",
+    demo: "",
+    role: "Back end Developer",
+  },
 ];
